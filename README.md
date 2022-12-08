@@ -3,7 +3,7 @@
 
 UC Berkeley, Applied Math with Concentration in Computer Science / evheus@gmail.com / New York, NY
 
-**Interests:** Footy :soccer:, trading, building start-ups and models. Likely in that order. Macro modelling, regime-switching, distributed systems, and learning. Also like to ski :ski: and cook :ramen:.
+**Interests:** Footy :soccer:, trading, building start-ups and models. Likely in that order. Macro modelling, regime-switching, distributed systems, and learning. Also like to ski and cook.
 
 **Building/Writing:** 
 - "Classifying with Unbalanced Costs" with VVB
@@ -25,11 +25,11 @@ UC Berkeley, Applied Math with Concentration in Computer Science / evheus@gmail.
 - Energy drink flavor sentiment analysis/prediction
 - Demand forecasting tool for major retailer 
 
-**Books :books: of the moment:**
+**Books of the moment:**
 - Strategic Risk Management by Cambell Harvey
 - Superforecasting by Phil Tetlock
 - The Long Good Buy by Peter Oppenheimer
 - Breakfast of Champions by Kurt Vonnegut
 
-**Research :bar_chart: binge of the moment:**
+**Research binge of the moment:**
 - ML
