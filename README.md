@@ -15,7 +15,9 @@ UC Berkeley, Applied Math with Concentration in Computer Science / evheus@gmail.
 - What is the predictive value of yield curve convergence?
 - What is the best way to model the flight-to-quality phenomenon?
 - How do we dampen drawdowns specific to momentum portfolios (the rest of the market does not notice)?
+- How doe we track "excellent leadership" in the market?
 - Why isn't there a better way to share articles and papers?
+- Why isn't there a social version of Kalshi for betting with published prediction records?
 
 **Past Projects and Papers:**
 - Paired (dormant), see pitch deck here.
