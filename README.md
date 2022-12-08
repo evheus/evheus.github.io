@@ -1,7 +1,7 @@
 # Evan Heus
 ![Screen Shot 2022-12-08 at 1 09 48 PM](https://user-images.githubusercontent.com/114233836/206532170-d2aa73f5-a656-41ee-9516-98d0244202c9.png)
 
-evheus@gmail.com 
+evheus@gmail.com / 
 New York, NY
 
 **Interests:** Footy, trading, building start-ups and models. Likely in that order. Macro modelling, regime-switching, distributed systems, and learning. Also like to ski and to cook.
@@ -17,7 +17,7 @@ New York, NY
 - How do we find evidence that security X leads security Y?
 - Why isn't there a better way to share articles and papers?
 
-**Projects and Papers:**
+** Past Projects and Papers:**
 - Paired (dormant), see pitch deck here.
 - "Classifying with Unbalanced Costs" with VVB
 - Arbitrage bot to front run copy traders of high profile public traders in small crypto markets
