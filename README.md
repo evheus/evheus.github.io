@@ -11,10 +11,10 @@ UC Berkeley, Applied Math with Concentration in Computer Science / evheus@gmail.
 3) Bear market rally long puts system. Using volume, momentum, and volatility.
 
 **Interesting questions:**
-- What happens when yield curves converge?
+- How do we find evidence that security X leads security Y?
+- What is the predictive value of yield curve convergence?
 - What is the best way to model the flight-to-quality phenomenon?
 - How do we dampen drawdowns specific to momentum portfolios (the rest of the market does not notice)?
-- How do we find evidence that security X leads security Y?
 - Why isn't there a better way to share articles and papers?
 
 **Past Projects and Papers:**
