@@ -25,11 +25,11 @@ UC Berkeley, Applied Math with Concentration in Computer Science / evheus@gmail.
 - Energy drink flavor sentiment analysis/prediction
 - Demand forecasting tool for major retailer 
 
-**Books of the moment:**
+**Books :books: of the moment:**
 - Strategic Risk Management by Cambell Harvey
 - Superforecasting by Phil Tetlock
 - The Long Good Buy by Peter Oppenheimer
 - Breakfast of Champions by Kurt Vonnegut
 
-**Research binge of the moment:**
+**Research :bar_chart: binge of the moment:**
 - ML
