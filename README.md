@@ -4,7 +4,7 @@
 evheus@gmail.com 
 New York, NY
 
-**Interests:** Footy, trading, building start-ups and models. Likely in that order. Macro modelling, regime-switching, distributed systems, and learning. 
+**Interests:** Footy, trading, building start-ups and models. Likely in that order. Macro modelling, regime-switching, distributed systems, and learning. Also like to ski and to cook.
 
 **Building:** 
 1) Bull/Bear market indicator. Using unemployment, inflation, equity valuations, ISM, private sector balances, and yield curves.
