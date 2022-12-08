@@ -17,7 +17,7 @@ New York, NY
 - How do we find evidence that security X leads security Y?
 - Why isn't there a better way to share articles and papers?
 
-** Past Projects and Papers:**
+**Past Projects and Papers:**
 - Paired (dormant), see pitch deck here.
 - "Classifying with Unbalanced Costs" with VVB
 - Arbitrage bot to front run copy traders of high profile public traders in small crypto markets
