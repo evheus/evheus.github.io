@@ -6,9 +6,9 @@ UC Berkeley, Applied Math with Concentration in Computer Science / evheus@gmail.
 **Interests:** Footy, trading, building start-ups and models. Likely in that order. Macro modelling, regime-switching, distributed systems, and learning. Also like to ski and to cook.
 
 **Building/Writing:** 
-1) "Classifying with Unbalanced Costs" with VVB
-2) Bull/Bear market indicator. Using unemployment, inflation, equity valuations, ISM, private sector balances, and yield curves.
-3) Bear market rally long puts system. Using volume, momentum, and volatility.
+- "Classifying with Unbalanced Costs" with VVB
+- Bull/Bear market indicator. Using unemployment, inflation, equity valuations, ISM, private sector balances, and yield curves.
+- Bear market rally long puts system. Using volume, momentum, and volatility.
 
 **Interesting questions:**
 - How do we find evidence that security X leads security Y?
