@@ -3,7 +3,7 @@
 
 UC Berkeley, Applied Math with Concentration in Computer Science / evheus@gmail.com / New York, NY
 
-**Interests:** Footy, trading, building start-ups and models. Likely in that order. Macro modelling, regime-switching, distributed systems, and learning. Also like to ski and cook.
+**Interests:** Footy :soccer:, trading, building start-ups and models. Likely in that order. Macro modelling, regime-switching, distributed systems, and learning. Also like to ski and cook.
 
 **Building/Writing:** 
 - "Classifying with Unbalanced Costs" with VVB
