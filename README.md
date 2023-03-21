@@ -3,33 +3,36 @@
 
 UC Berkeley, Applied Math with Concentration in Computer Science / evheus@gmail.com / New York, NY
 
-**Interests:** Footy :soccer:, trading, building start-ups and models. Likely in that order. Macro modelling, regime-switching, distributed systems, and learning. Also like to ski and cook.
+**Interests:** Footy :soccer:, trading, and financial modelling. Macro modelling, regime-switching, distributed systems, and learning. Also like to ski and cook.
 
-**Building/Writing:** 
-- "Classifying with Unbalanced Costs" with VVB
+**Models:** 
 - Bull/Bear market indicator. Using unemployment, inflation, equity valuations, ISM, private sector balances, and yield curves.
-- Bear market rally long puts system. Using volume, momentum, and volatility.
+- Bear market rally long puts system. Using volume, momentum, volatility term structure, and vol predictive models.
+- Vol of Vol timing.
+- Joel Greenblatt's magic model with simple trend and downside vol scaling.
+- Working on discounted secondary-offering models.
 
 **Interesting questions:**
-- How do we find evidence that security X leads security Y?
+- How do we find evidence that security X leads security Y, is delayed correlation worth betting on?
 - What is the predictive value of yield curve convergence?
 - What is the best way to model the flight-to-quality phenomenon?
-- How do we dampen drawdowns specific to momentum portfolios (the rest of the market does not notice)?
-- How doe we track "excellent leadership" in the market?
-- Why isn't there a better way to share articles and papers?
+- How do we track "excellent leadership" in the market?
+- Why isn't there a better way to share articles and papers? What if each person had a public book list and their peers could add to them?
 - Why isn't there a social version of Kalshi for betting with published prediction records?
 
-**Past Projects and Papers:**
-- Paired (dormant), see pitch deck here.
+**Projects and Papers:**
+- "Classifying with Unbalanced Costs" with VVB
+- Paired, see pitch deck here.
 - Arbitrage bot to front run copy traders of high profile public traders in small crypto markets
-- Energy drink flavor sentiment analysis/prediction
-- Demand forecasting tool for major retailer 
+- Energy drink flavor sentiment analysis/prediction for Monster Energy
+- Demand forecasting foe Levi's
 
-**Books of the moment:**
+**Top recent books:**
+- Positional Options Trading by Euan Sinclair
+- The Riddler by Oliver Roeder of fivethirtyeight.com
 - Strategic Risk Management by Cambell Harvey
 - Superforecasting by Phil Tetlock
 - The Long Good Buy by Peter Oppenheimer
-- Breakfast of Champions by Kurt Vonnegut
 
 **Research binge of the moment:**
-- ML
+- Microcap inefficiencies
