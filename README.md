@@ -17,6 +17,7 @@ UC Berkeley, Applied Math with Concentration in Computer Science / evheus@gmail.
 - What is the predictive value of yield curve convergence?
 - What is the best way to model the flight-to-quality phenomenon?
 - How do we track "excellent leadership" in the market?
+- Is there a factor that does well in the build up of bubbles and is profitable on average?
 - Why isn't there a better way to share articles and papers? What if each person had a public book list and their peers could add to them?
 - Why isn't there a social version of Kalshi for betting with published prediction records?
 
