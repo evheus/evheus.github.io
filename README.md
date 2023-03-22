@@ -24,9 +24,9 @@ UC Berkeley, Applied Math with Concentration in Computer Science / evheus@gmail.
 **Projects and Papers:**
 - [Classifying with Unbalanced Costs](https://drive.google.com/uc?export=download&id=11M7XZH4S-vWuKaPiGVwoSbiPhqNwbi5_) with Vasco Villas-Boas
 - Paired, see pitch deck [here](https://drive.google.com/uc?export=download&id=16LKx0tKmIQwlOjoPG32hzFmsQw6IxoxU).
-- Arbitrage bot to front run copy traders of high profile public traders in small crypto markets
+- Arbitrage bot to front run copy traders of high profile public traders in illiquid markets
 - Energy drink flavor sentiment analysis/prediction for Monster Energy
-- Demand forecasting foe Levi's
+- Demand forecasting for Levi's
 
 **Top recent books:**
 - Positional Options Trading by Euan Sinclair
