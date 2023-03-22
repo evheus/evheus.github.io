@@ -21,7 +21,7 @@ UC Berkeley, Applied Math with Concentration in Computer Science / evheus@gmail.
 - Why isn't there a social version of Kalshi for betting with published prediction records?
 
 **Projects and Papers:**
-- ["Classifying with Unbalanced Costs"](https://drive.google.com/uc?export=download&id=11M7XZH4S-vWuKaPiGVwoSbiPhqNwbi5_) with Vasco Villas-Boas
+- [Classifying with Unbalanced Costs](https://drive.google.com/uc?export=download&id=11M7XZH4S-vWuKaPiGVwoSbiPhqNwbi5_) with Vasco Villas-Boas
 - Paired, see pitch deck [here](https://drive.google.com/uc?export=download&id=16LKx0tKmIQwlOjoPG32hzFmsQw6IxoxU).
 - Arbitrage bot to front run copy traders of high profile public traders in small crypto markets
 - Energy drink flavor sentiment analysis/prediction for Monster Energy
