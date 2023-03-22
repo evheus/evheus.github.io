@@ -3,14 +3,14 @@
 
 UC Berkeley, Applied Math with Concentration in Computer Science / evheus@gmail.com / New York, NY
 
-**Interests:** Footy :soccer:, trading, and financial modelling. Macro modelling, regime-switching, distributed systems, and learning. Also like to ski and cook.
+**Interests:** Soccer, financial modelling, distributed systems, trading and markets. Also like to ski and to cook.
 
 **Models:** 
 - Bull/Bear market indicator. Using unemployment, inflation, equity valuations, ISM, private sector balances, and yield curves.
 - Bear market rally long puts system. Using volume, momentum, volatility term structure, and vol predictive models.
 - Vol of Vol timing.
 - Joel Greenblatt's magic model with simple trend and downside vol scaling.
-- Working on discounted secondary-offering models.
+- Post discounted secondary-offering drift.
 
 **Interesting questions:**
 - How do we find evidence that security X leads security Y, is delayed correlation worth betting on?
@@ -21,8 +21,8 @@ UC Berkeley, Applied Math with Concentration in Computer Science / evheus@gmail.
 - Why isn't there a social version of Kalshi for betting with published prediction records?
 
 **Projects and Papers:**
-- "Classifying with Unbalanced Costs" with VVB
-- Paired, see pitch deck here.
+- ["Classifying with Unbalanced Costs"]() with VVB
+- Paired, see pitch deck [here](https://drive.google.com/uc?export=download&id=16LKx0tKmIQwlOjoPG32hzFmsQw6IxoxU).
 - Arbitrage bot to front run copy traders of high profile public traders in small crypto markets
 - Energy drink flavor sentiment analysis/prediction for Monster Energy
 - Demand forecasting foe Levi's
